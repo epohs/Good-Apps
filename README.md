@@ -1,6 +1,10 @@
 # Running list of apps that are good for
 
 
+## General
+
+- Noir
+
 ## MacOS
 
 - Transmit
