@@ -57,3 +57,11 @@ This is an ongoing list that will change over time. Most of these are free apps,
 - [btop](https://github.com/aristocratos/btop)
 
   - Nicer, prettier top.
+  
+- [uv](https://github.com/astral-sh/uv)
+
+  - Python package manager (replacement for pip).
+  
+- [LiteCLI](https://litecli.com)
+
+  - Commandline SQLite interface.
