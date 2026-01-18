@@ -9,6 +9,10 @@ This is an ongoing list that will change over time. Most of these are free apps,
 
   - Dark mode for Safari.
 
+- [1Blocker](https://1blocker.com)
+  
+  - Ad blocking for Safari. 
+
 
 ## MacOS
 
