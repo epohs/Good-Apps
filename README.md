@@ -1,5 +1,7 @@
 # Running list of apps that are good.
 
+This is an ongoing list that will change over time. Most of these are free apps, or have free versions. Some of them are paid. They’re all good.
+
 
 ## General
 
@@ -31,7 +33,7 @@
   - Keep your Mac awake.
 
 
-## iPad
+## iPad/iPhone
 
 - [Textastic](https://www.textasticapp.com)
 
