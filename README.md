@@ -11,7 +11,19 @@ This is an ongoing list that will change over time. Most of these are free apps,
 
 - [1Blocker](https://1blocker.com)
   
-  - Ad blocking for Safari. 
+  - Ad blocking for Safari.
+
+- [Micro](https://micro-editor.github.io)
+
+  - Commandline text editor.
+  
+- [uv](https://github.com/astral-sh/uv)
+
+  - Python package manager (replacement for pip).
+  
+- [LiteCLI](https://litecli.com)
+
+  - Commandline SQLite interface.
 
 
 ## MacOS
@@ -53,19 +65,7 @@ This is an ongoing list that will change over time. Most of these are free apps,
 
 
 ## Linux
-
-- [Micro](https://micro-editor.github.io)
-
-  - Commandline text editor.
   
 - [btop](https://github.com/aristocratos/btop)
 
   - Nicer, prettier top.
-  
-- [uv](https://github.com/astral-sh/uv)
-
-  - Python package manager (replacement for pip).
-  
-- [LiteCLI](https://litecli.com)
-
-  - Commandline SQLite interface.
