@@ -15,7 +15,7 @@ This is an ongoing list that will change over time. Most of these are free apps,
 
 - [Micro](https://micro-editor.github.io)
 
-  - Commandline text editor.
+  - Terminal text editor.
   
 - [uv](https://github.com/astral-sh/uv)
 
@@ -23,7 +23,7 @@ This is an ongoing list that will change over time. Most of these are free apps,
 
 - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
-  - Display a pretty, and useful welcome screen for commandline.
+  - Display a pretty, and useful welcome screen for terminal sessions.
   
 - [LiteCLI](https://litecli.com)
 
@@ -69,7 +69,11 @@ This is an ongoing list that will change over time. Most of these are free apps,
 
 
 ## Linux
+
+- [Midnight Commander](https://midnight-commander.org)
   
+  - Visual terminal file manager. 
+ 
 - [btop](https://github.com/aristocratos/btop)
 
   - Nicer, prettier top.
