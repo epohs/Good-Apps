@@ -68,7 +68,7 @@ This is an ongoing list that will change over time. Most of these are free apps,
   
 - [uv](https://github.com/astral-sh/uv)
 
-  - Python package manager (replacement for pip).
+  - Python package manager (replacement for pip and venv).
 
 - [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
