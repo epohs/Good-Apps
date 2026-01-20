@@ -13,28 +13,12 @@ This is an ongoing list that will change over time. Most of these are free apps,
   
   - Ad blocking for Safari.
 
-- [Micro](https://micro-editor.github.io)
-
-  - Terminal text editor.
-  
-- [uv](https://github.com/astral-sh/uv)
-
-  - Python package manager (replacement for pip).
-
-- [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
-
-  - Display a pretty, and useful welcome screen for terminal sessions.
-  
-- [LiteCLI](https://litecli.com)
-
-  - Commandline SQLite interface.
-
 
 ## MacOS
 
 - [Homebrew](https://brew.sh)
 
-  - Commandline package manager.
+  - Command line package manager.
 
 - [Transmit](https://panic.com/transmit/)
 
@@ -77,3 +61,19 @@ This is an ongoing list that will change over time. Most of these are free apps,
 - [btop](https://github.com/aristocratos/btop)
 
   - Nicer, prettier top.
+
+- [Micro](https://micro-editor.github.io)
+
+  - Terminal text editor.
+  
+- [uv](https://github.com/astral-sh/uv)
+
+  - Python package manager (replacement for pip).
+
+- [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
+
+  - Display a pretty, and useful welcome screen for terminal sessions.
+  
+- [LiteCLI](https://litecli.com)
+
+  - Command line SQLite interface. 
