@@ -84,4 +84,20 @@ This is an ongoing list that will change over time. Most of these are free apps,
   
 - [LiteCLI](https://litecli.com)
 
-  - Command line SQLite interface. 
+  - Command line SQLite interface.
+
+- [zoxide](https://github.com/ajeetdsouza/zoxide)
+
+  - Smarter cd that remembers your most-used folders.
+
+- [fd](https://github.com/sharkdp/fd)
+
+  - Simpler, faster find.
+
+- [bat](https://github.com/sharkdp/bat)
+
+  - cat with syntax highlighting and line numbers.
+
+- [tldr](https://tldr.sh)
+
+  - Short, example-first cheat sheets for commands. 
