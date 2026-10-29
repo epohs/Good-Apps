@@ -36,6 +36,14 @@ This is an ongoing list that will change over time. Most of these are free apps,
 
   - Keep your Mac awake.
 
+- [Thaw](https://www.getthaw.app)
+
+  - Hide and rearrange menu bar icons.
+
+- [Maccy](https://maccy.app)
+
+  - Lightweight clipboard history.
+
 
 ## iPad/iPhone
 
