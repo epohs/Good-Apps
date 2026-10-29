@@ -43,7 +43,7 @@ This is an ongoing list that will change over time. Most of these are free apps,
 
   - Text editor with built-in FTP and SSH.
   
-- [Terminus](https://termius.com)
+- [Termius](https://termius.com)
 
   - Excellent SSH terminal.
   
